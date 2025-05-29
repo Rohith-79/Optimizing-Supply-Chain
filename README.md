@@ -53,8 +53,11 @@ This project analyzes the SCMS Delivery History Dataset to optimize supply chain
 
 📁 Optimizing-Supply-Chain/
 ├── SCMS_Delivery_History_Dataset.csv
+
 ├── Optimizing Supply Chain Using Shipment Pricing Data.ipynb
+
 ├── Optimizing Supply Chain Using Shipment Pricing Data.pdf
+
 └── README.md
 
 
